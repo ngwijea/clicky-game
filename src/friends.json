@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Dexter Morgan",
+    "image": "https://th.bing.com/th/id/OIP.LDQy5EgRz_pFfAEEI1ruRAAAAA?w=138&h=150&c=7&o=5&pid=1.7",
+    "occupation": "Niced Serial Killer",
+    "location": "Miami"
+  },
+  {
+    "id": 2,
+    "name": "Tyrion Lannister",
+    "image": "https://th.bing.com/th/id/OIP.ghY6LKzcYyZnE6EfdHL2kwAAAA?w=142&h=156&c=7&o=5&pid=1.7",
+    "occupation": "Wine Drinker",
+    "location": "King's Landing"
+  },
+  {
+    "id": 3,
+    "name": "Homer Simpson",
+    "image": "https://th.bing.com/th/id/OIP.X4A9NFFUaN9RzdrnUkz4MgHaHa?w=133&h=150&c=7&o=5&pid=1.7",
+    "occupation": "Beer Drinker",
+    "location": "Springfield"
+  },
+  {
+    "id": 4,
+    "name": "Omar Little",
+    "image": "https://th.bing.com/th/id/OIP.pAKAbSqv7nvUZVOZeHLkAwAAAA?w=150&h=150&c=7&o=5&pid=1.7",
+    "occupation": "Entrepreneur",
+    "location": "Baltimore"
+  },
+  {
+    "id": 5,
+    "name": "Spock",
+    "image": "https://th.bing.com/th/id/OIP.yrg_o_Z09eSDzzTrS8S7kgHaI4?w=125&h=160&c=7&o=5&pid=1.7",
+    "occupation": "Yoga Instructor",
+    "location": "Space, The Final Frontier"
+  },
+  {
+    "id": 6,
+    "name": "Sherlock Holmes",
+    "image": "",
+    "occupation": "Detailer",
+    "location": "London"
+  },
+  {
+    "id": 7,
+    "name": "Stewie Griffin",
+    "image": "https://th.bing.com/th/id/OIP.5XNq244lf7PhyU5YZDZa7QAAAA?w=149&h=120&c=7&o=5&pid=1.7",
+    "occupation": "Babe Magnet",
+    "location": "Quahog"
+  },
+  {
+    "id": 8,
+    "name": "Angel",
+    "image": "https://th.bing.com/th/id/OIP.OYRzLYs39ZIh32BBzV1IEQAAAA?w=173&h=129&c=7&o=5&pid=1.7",
+    "occupation": "Detective",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 9,
+    "name": "Barney Stinson",
+    "image": "https://th.bing.com/th/id/OIP.9b9A-lpa0X4yYnbynyRJYgAAAA?w=150&h=150&c=7&o=5&pid=1.7",
+    "occupation": "Life Coach",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Walter White",
+    "image": "https://th.bing.com/th/id/OIP.MWuhXP9_ev3N-agzdOywYgAAAA?w=149&h=150&c=7&o=5&pid=1.7",
+    "occupation": "Scientist",
+    "location": "New Mexico"
+  }
+]
