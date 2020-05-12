@@ -21,10 +21,10 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>Clicky Game</Title>
+        <Title>Click on an image to earn points but don't click on any more than once</Title>
         {this.state.friends.map(friend => (
           <FriendCard
-            removeFriend={this.removeFriend}
             id={friend.id}
             key={friend.id}
             name={friend.name}
